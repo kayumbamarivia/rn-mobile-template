@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "rn-mobile-template",
+    "name": "rnCooked",
     "slug": "rn-mobile-template",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "rnmobiletemplate",
+    "scheme": "rnCooked",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
